@@ -9,17 +9,17 @@ The dataset used for this analysis is astronauts.csv, which contains information
 
 **SQL Analysis**
 The SQL script includes the following queries:
-  1) Total Number of Values
-  2) Average Space Flights and Space Walks
-  3) Total Number of Space Flights and Walks
-  4) Maximum Space Flights and Space Walks
-  5) Astronaut with the Most Number of Space Flights
-  6) Astronaut with the Most Number of Space Walks
-  7) Minimum Space Flights and Space Walks
-  8) Number of Astronauts with No Space Flights
-  9) Number of Astronauts with No Space Walks
-  10) Number of Astronauts with Neither Space Flights Nor Space Walks
-  11) Number of Null Values in Year
-  12) Number of Null Values in Missions
-  13) Astronauts in Management Position with No Flight Experience
-  14) Number of Astronauts in Management Position with No Flight Experience
+                  1) Total Number of Values
+                  2) Average Space Flights and Space Walks
+                  3) Total Number of Space Flights and Walks
+                  4) Maximum Space Flights and Space Walks
+                  5) Astronaut with the Most Number of Space Flights
+                  6) Astronaut with the Most Number of Space Walks
+                  7) Minimum Space Flights and Space Walks
+                  8) Number of Astronauts with No Space Flights
+                  9) Number of Astronauts with No Space Walks
+                  10) Number of Astronauts with Neither Space Flights Nor Space Walks
+                  11) Number of Null Values in Year
+                  12) Number of Null Values in Missions
+                  13) Astronauts in Management Position with No Flight Experience
+                  14) Number of Astronauts in Management Position with No Flight Experience
